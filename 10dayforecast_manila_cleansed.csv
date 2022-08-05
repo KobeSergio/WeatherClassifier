@@ -1,0 +1,38 @@
+date,temperature,precipitation,wind,humidity,wind_direction,uv,sunrise,sunset,narrative,moon
+28/07/2022 18:00:00,80,85,10 ,86,WSW,0,4:58 am,6:19 pm,"Thunderstorms - some locally heavy downpours are possible, especially late.
+Heavy and torrential downpours at times. Low near 80F. Winds WSW at 5 to 10
+mph. Chance of rain 90%. 1 to 2 inches of rain expected.",New Moon
+29/07/2022 06:00:00,88,85,14 ,79,WSW,9,5:38 am,6:26 pm,Thunderstorms. High 88F. Winds WSW at 10 to 20 mph. Chance of rain 90%.,N/A
+29/07/2022 18:00:00,80,82,9 ,87,WSW,0,5:50 am,7:03 pm,"Thunderstorms likely. Low near 80F. Winds WSW at 5 to 10 mph. Chance of rain
+80%.",New Moon
+30/07/2022 06:00:00,87,88,14 ,80,WSW,9,5:39 am,6:25 pm,Thunderstorms. High 87F. Winds WSW at 10 to 20 mph. Chance of rain 90%.,N/A
+30/07/2022 18:00:00,79,82,10 ,88,SW,0,6:41 am,7:44 pm,Thunderstorms. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 80%.,Waxing Crescent
+31/07/2022 06:00:00,87,94,14 ,80,WSW,6,5:39 am,6:25 pm,Thunderstorms. High 87F. Winds WSW at 10 to 20 mph. Chance of rain 90%.,N/A
+31/07/2022 18:00:00,79,85,8 ,89,SW,0,7:32 am,8:22 pm,Thunderstorms likely. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 90%.,Waxing Crescent
+01/08/2022 06:00:00,87,96,12 ,79,WSW,6,5:39 am,6:25 pm,Thunderstorms. High 87F. Winds WSW at 10 to 15 mph. Chance of rain 100%.,N/A
+01/08/2022 18:00:00,79,78,7 ,88,SW,0,8:21 am,8:59 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 80%.",Waxing Crescent
+02/08/2022 06:00:00,88,88,10 ,77,SW,6,5:39 am,6:24 pm,Thunderstorms. High 88F. Winds SW at 10 to 15 mph. Chance of rain 90%.,N/A
+02/08/2022 18:00:00,79,69,6 ,87,SSW,0,9:10 am,9:36 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 79F. Winds light and variable. Chance of rain 70%.",Waxing Crescent
+03/08/2022 06:00:00,90,77,9 ,76,SW,9,5:39 am,6:24 pm,Thunderstorms. High near 90F. Winds SW at 5 to 10 mph. Chance of rain 80%.,N/A
+03/08/2022 18:00:00,79,75,6 ,87,ESE,0,9:59 am,10:12 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 79F. Winds light and variable. Chance of rain 80%.",Waxing Crescent
+04/08/2022 06:00:00,89,68,7 ,76,S,9,5:40 am,6:23 pm,"Scattered thunderstorms in the morning becoming more widespread in the
+afternoon. High 89F. Winds S at 5 to 10 mph. Chance of rain 70%.",N/A
+04/08/2022 18:00:00,79,66,6 ,88,NE,0,10:49 am,10:51 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 79F. Winds light and variable. Chance of rain 70%.",Waxing Crescent
+05/08/2022 06:00:00,87,60,7 ,79,WSW,9,5:40 am,6:23 pm,Thunderstorms. High 87F. Winds WSW at 5 to 10 mph. Chance of rain 60%.,N/A
+05/08/2022 18:00:00,78,60,6 ,88,SE,0,11:43 am,11:34 pm,Thunderstorms. Low 78F. Winds SE at 5 to 10 mph. Chance of rain 60%.,First Quarter
+06/08/2022 06:00:00,88,60,9 ,78,SSW,6,5:40 am,6:23 pm,Thunderstorms. High 88F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,N/A
+06/08/2022 18:00:00,78,60,6 ,89,S,0,12:40 pm,N/A,Thunderstorms. Low 78F. Winds S at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+07/08/2022 06:00:00,89,60,10 ,78,SW,6,5:40 am,6:22 pm,Thunderstorms. High 89F. Winds SW at 5 to 10 mph. Chance of rain 60%.,N/A
+07/08/2022 18:00:00,79,60,7 ,88,SSW,0,1:42 pm,12:21 am,Thunderstorms. Low 79F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+08/08/2022 06:00:00,88,60,10 ,78,SW,6,5:41 am,6:22 pm,Thunderstorms. High 88F. Winds SW at 5 to 10 mph. Chance of rain 60%.,N/A
+08/08/2022 18:00:00,79,60,7 ,87,SSW,0,2:46 pm,1:15 am,Thunderstorms likely. Low 79F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+09/08/2022 06:00:00,88,60,10 ,78,SW,6,5:41 am,6:21 pm,Thunderstorms. High 88F. Winds SW at 5 to 10 mph. Chance of rain 60%.,N/A
+09/08/2022 18:00:00,79,60,7 ,87,SSW,0,3:52 pm,2:15 am,Thunderstorms. Low 79F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+10/08/2022 06:00:00,88,60,9 ,77,SW,6,5:41 am,6:21 pm,Thunderstorms likely. High 88F. Winds SW at 5 to 10 mph. Chance of rain 60%.,N/A
+10/08/2022 18:00:00,79,60,6 ,88,SW,0,4:56 pm,3:21 am,Thunderstorms. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+11/08/2022 06:00:00,87,60,10 ,79,SW,6,5:41 am,6:20 pm,Thunderstorms. High 87F. Winds SW at 5 to 10 mph. Chance of rain 60%.,N/A
+11/08/2022 18:00:00,79,60,7 ,87,SW,0,5:55 pm,4:28 am,Thunderstorms. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 60%.,Full Moon

@@ -1,0 +1,37 @@
+date,temperature,rain_chance,wind,humidity,uv,sunrise,sunset,narrative,moon
+Thu 28 | Night,80,88%,WSW 3 mph,87%,0 of 10,4:58 am,6:19 pm,"Scattered thunderstorms early, then mainly cloudy overnight with thunderstorms
+likely. Heavy and torrential downpours at times. Low near 80F. Winds light and
+variable. Chance of rain 90%.",New Moon
+Fri 29 | Day,88,91%,WSW 14 mph,80%,9 of 10,5:38 am,6:26 pm,Thunderstorms likely. High 88F. Winds WSW at 10 to 20 mph. Chance of rain 90%.,None
+Fri 29 | Night,80,84%,WSW 8 mph,87%,0 of 10,5:50 am,7:03 pm,Thunderstorms. Low near 80F. Winds WSW at 5 to 10 mph. Chance of rain 80%.,New Moon
+Sat 30 | Day,87,88%,WSW 14 mph,80%,10 of 10,5:38 am,6:25 pm,Thunderstorms likely. High 87F. Winds WSW at 10 to 20 mph. Chance of rain 90%.,None
+Sat 30 | Night,79,86%,SW 9 mph,88%,0 of 10,6:41 am,7:44 pm,Thunderstorms likely. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 90%.,Waxing Crescent
+Sun 31 | Day,87,96%,WSW 13 mph,81%,6 of 10,5:39 am,6:25 pm,Thunderstorms. High 87F. Winds WSW at 10 to 20 mph. Chance of rain 100%.,None
+Sun 31 | Night,79,88%,SW 8 mph,89%,0 of 10,7:32 am,8:22 pm,Thunderstorms likely. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 90%.,Waxing Crescent
+Mon 01 | Day,87,96%,WSW 12 mph,80%,6 of 10,5:39 am,6:25 pm,"Thunderstorms likely. High 87F. Winds WSW at 10 to 15 mph. Chance of rain
+100%.",None
+Mon 01 | Night,79,82%,SW 7 mph,88%,0 of 10,8:21 am,8:59 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 80%.",Waxing Crescent
+Tue 02 | Day,88,87%,SW 10 mph,77%,6 of 10,5:39 am,6:24 pm,Thunderstorms likely. High 88F. Winds SW at 5 to 10 mph. Chance of rain 90%.,None
+Tue 02 | Night,79,70%,SSW 6 mph,87%,0 of 10,9:10 am,9:36 pm,Thunderstorms likely. Low 79F. Winds light and variable. Chance of rain 70%.,Waxing Crescent
+Wed 03 | Day,90,77%,SW 9 mph,75%,9 of 10,5:39 am,6:24 pm,Thunderstorms. High around 90F. Winds SW at 5 to 10 mph. Chance of rain 80%.,None
+Wed 03 | Night,78,75%,E 5 mph,88%,0 of 10,9:59 am,10:12 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 78F. Winds light and variable. Chance of rain 80%.",Waxing Crescent
+Thu 04 | Day,89,67%,S 7 mph,77%,9 of 10,5:40 am,6:24 pm,"Scattered thunderstorms in the morning becoming more widespread in the
+afternoon. High 89F. Winds S at 5 to 10 mph. Chance of rain 70%.",None
+Thu 04 | Night,78,65%,NE 5 mph,88%,0 of 10,10:49 am,10:51 pm,"Thunderstorms likely in the evening. Then a chance of scattered thunderstorms
+later on. Low 78F. Winds light and variable. Chance of rain 70%.",Waxing Crescent
+Fri 05 | Day,87,60%,WSW 7 mph,79%,9 of 10,5:40 am,6:23 pm,Thunderstorms likely. High 87F. Winds WSW at 5 to 10 mph. Chance of rain 60%.,None
+Fri 05 | Night,78,60%,SE 6 mph,88%,0 of 10,11:43 am,11:34 pm,Thunderstorms. Low 78F. Winds light and variable. Chance of rain 60%.,First Quarter
+Sat 06 | Day,88,60%,SSW 9 mph,79%,6 of 10,5:40 am,6:23 pm,Thunderstorms likely. High 88F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,None
+Sat 06 | Night,78,60%,S 6 mph,89%,0 of 10,12:40 pm,\--,Thunderstorms. Low 78F. Winds light and variable. Chance of rain 60%.,Waxing Gibbous
+Sun 07 | Day,88,60%,SSW 10 mph,78%,6 of 10,5:40 am,6:22 pm,Thunderstorms likely. High 88F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,None
+Sun 07 | Night,79,60%,SSW 7 mph,88%,0 of 10,1:42 pm,12:21 am,Thunderstorms. Low 79F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+Mon 08 | Day,88,60%,SSW 9 mph,78%,6 of 10,5:41 am,6:22 pm,Thunderstorms. High 88F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,None
+Mon 08 | Night,79,60%,SSW 7 mph,87%,0 of 10,2:46 pm,1:15 am,Thunderstorms. Low 79F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+Tue 09 | Day,88,60%,SW 9 mph,78%,6 of 10,5:41 am,6:21 pm,Thunderstorms. High 88F. Winds SW at 5 to 10 mph. Chance of rain 60%.,None
+Tue 09 | Night,79,60%,SSW 7 mph,87%,0 of 10,3:53 pm,2:15 am,Thunderstorms likely. Low 79F. Winds SSW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+Wed 10 | Day,88,60%,SW 9 mph,78%,6 of 10,5:41 am,6:21 pm,Thunderstorms. High 88F. Winds SW at 5 to 10 mph. Chance of rain 60%.,None
+Wed 10 | Night,78,60%,SW 6 mph,88%,0 of 10,4:56 pm,3:21 am,Thunderstorms. Low 78F. Winds SW at 5 to 10 mph. Chance of rain 60%.,Waxing Gibbous
+Thu 11 | Day,87,60%,SW 10 mph,79%,6 of 10,5:41 am,6:20 pm,Thunderstorms. High 87F. Winds SW at 5 to 10 mph. Chance of rain 60%.,None
+Thu 11 | Night,79,60%,SW 6 mph,87%,0 of 10,5:55 pm,4:28 am,Thunderstorms likely. Low 79F. Winds SW at 5 to 10 mph. Chance of rain 60%.,Full Moon
